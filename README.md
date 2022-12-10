@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 my name is Regis
+## welcome a my github
+## atualmente sou servidor público estadual, trabalho na area de segurança.
+##  comecei a estudar programação por Js,  em um curso virtual  e o objetivo é aprender e aplicar meus conhecimentos em cibersegurança para uma possivel migração de carreira.
+##  sou do interior de SP, e podem me contata através do email: reginhoalves10@hotmail.com
+
 
 <!--
 **fogaca55/fogaca55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
