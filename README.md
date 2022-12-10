@@ -1,5 +1,5 @@
-### Hi there 👋 my name is Regis
-## welcome a my github
+### Hi there 👋 meu nome é Regis
+## bem vindo ao meu GitHub.
 ## atualmente sou servidor público estadual, trabalho na area de segurança.
 ##  comecei a estudar programação por Js,  em um curso virtual  e o objetivo é aprender e aplicar meus conhecimentos em cibersegurança para uma possivel migração de carreira.
 ##  sou do interior de SP, e podem me contata através do email: reginhoalves10@hotmail.com
