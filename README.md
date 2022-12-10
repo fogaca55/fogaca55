@@ -1,4 +1,4 @@
-### Olá 👋 meu nome Regis
+### Olá 👋 meu nome é Regis.
 ## bem vindo ao eu GitHub.
 ## atualmente sou servidor público estadual, trabalho na area de segurança.
 ##  comecei a estudar programação por Js,  em um curso virtual  e o objetivo é aprender e aplicar meus conhecimentos em cibersegurança para uma possivel migração de carreira.
